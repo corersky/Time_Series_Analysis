@@ -4,3 +4,9 @@ There are two types of distribution theory.
 
 Discrete distribution is in which the output is interger. For example, the number of people has voted. The number of patients visited emergency during 1 year. 
 Continuous distribution consist of the range of output. For example, the outcome of the survey finding the pH level of underground water. 
+
+There are various types of Discrete Distribution
+a) Uniform probablity distribution
+b) Binomial Distribution
+c) Poission Distribution
+d) Exponentional Distribution
