@@ -32,3 +32,5 @@ The properties associated with the continuous distribution are as follows :-
 1) The probabilty density funciton is always a non negative value. 
 2) The integration of pdf for a range of x is P(a<X<b), probabilty of the distribution in the range of a & b. 
 3) The pdf at any point is always zero (0) in continious distribution systems. 
+
+There are many other topics to be covered in this Introduction, like joint probabilty, Point estimator, Hypothesis Testing. 
