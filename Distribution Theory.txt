@@ -5,11 +5,22 @@ There are two types of distribution theory.
 Discrete distribution is in which the output is interger. For example, the number of people has voted. The number of patients visited emergency during 1 year. 
 Continuous distribution consist of the range of output. For example, the outcome of the survey finding the pH level of underground water. 
 
+The following properties of the discrete distribution is very important.
+1) The probability distribution function is called probabilty mass function. 
+2) The cumulative distribution function is called cummulative distribution function.
+
+These hold 3 properties, which are 
+1) The probabilty mass function = f(x) should be always non negative. 
+2) The f(Xi) = P(X= Xi), the probability at any point x is the value of F(x) at that point. 
+3) Summation of all the probabilty at the range of X should be equal to 1. 
+
 There are various types of Discrete Distribution:- 
 a) Uniform probablity distribution
 b) Binomial Distribution
 c) Poission Distribution
 d) Exponentional Distribution
+
+
 
 There are many Continuous distribution, few of them are mentioned below:- 
 a) Uniform Probabilty Distribution
