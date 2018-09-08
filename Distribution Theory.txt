@@ -34,3 +34,5 @@ The properties associated with the continuous distribution are as follows :-
 3) The pdf at any point is always zero (0) in continious distribution systems. 
 
 There are many other topics to be covered in this Introduction, like joint probabilty, Point estimator, Hypothesis Testing. 
+
+These can be discussed shortly.
