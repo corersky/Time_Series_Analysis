@@ -1,4 +1,4 @@
-# Household Electricity Consumption
+# Household Electricity Consumption 
 
 This is a multivariate time series analysis of power consumption which can be modeled to forecast electricity consumption. Objective of this project are as follows: -
 How to create and analysis autocorrelation and partial autocorrelation plots for univariate time series data.
